@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dei:home|Door43 (dei)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dei|d43-dei repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dei/archive/master.zip|d43-dei.zip]]
+
+**Recent Changes**
+{{changes>ns = dei}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dei|Ethnologue data]]
+
